@@ -1,0 +1,63 @@
+2018-10-23 15:45:55,203  - HwUnittest.py : INFO  -
+2018-10-23 15:45:55,203  - HwUnittest.py : INFO  The testcase number is : 3
+2018-10-23 15:45:55,204  - HwUnittest.py : INFO  The testcase name is : ANDROID.py
+2018-10-23 15:45:55,204  - HwUnittest.py : INFO  The testcase name is : Jenkins.py
+2018-10-23 15:45:55,204  - HwUnittest.py : INFO  The testcase name is : Web_API.py
+2018-10-23 15:48:07,642  - HwUnittest.py : INFO  -
+2018-10-23 15:48:07,642  - HwUnittest.py : INFO  The testcase number is : 6
+2018-10-23 15:48:07,642  - HwUnittest.py : INFO  The testcase name is : ANDROID.py
+2018-10-23 15:48:07,642  - HwUnittest.py : INFO  The testcase name is : Jenkins.py
+2018-10-23 15:48:07,642  - HwUnittest.py : INFO  The testcase name is : Web_API.py
+2018-10-23 15:48:07,650  - ANDROID.py : WARNING  123456789
+2018-10-23 15:48:07,650  - ANDROID.py : INFO  Test Down
+2018-10-23 15:48:07,651  - ANDROID.py : WARNING  123456789
+2018-10-23 15:48:07,651  - ANDROID.py : ERROR  This is error message
+2018-10-23 15:48:07,651  - ANDROID.py : INFO  Test Down
+2018-10-23 15:48:07,654  - ANDROID.py : WARNING  123456789
+2018-10-23 15:48:07,654  - ANDROID.py : INFO  Test Down
+2018-10-23 15:48:15,966  - HwCutfile.py : INFO  Has been cut the file is 目前最新版本2018_10_23_Tuesday_15_48_07.html
+2018-10-24 10:15:34,884  - HwUnittest.py : INFO  -
+2018-10-24 10:15:34,930  - HwUnittest.py : INFO  The testcase number is : 3
+2018-10-24 10:15:34,930  - HwUnittest.py : INFO  The testcase name is : ANDROID.py
+2018-10-24 10:15:34,930  - HwUnittest.py : INFO  The testcase name is : Jenkins.py
+2018-10-24 10:15:34,930  - HwUnittest.py : INFO  The testcase name is : Web_API.py
+2018-10-24 10:15:40,530  - HwCutfile.py : INFO  Has been cut the file is 目前最新版本2018_10_24_Wednesday_10_15_35.html
+2018-10-24 10:37:11,440  - HwUnittest.py : INFO  -
+2018-10-24 10:37:11,440  - HwUnittest.py : INFO  The testcase number is : 3
+2018-10-24 10:37:11,440  - HwUnittest.py : INFO  The testcase name is : ANDROID.py
+2018-10-24 10:37:11,440  - HwUnittest.py : INFO  The testcase name is : Jenkins.py
+2018-10-24 10:37:11,440  - HwUnittest.py : INFO  The testcase name is : Web_API.py
+2018-10-24 10:37:11,457  - ANDROID.py : WARNING  123456789
+2018-10-24 10:37:11,457  - ANDROID.py : INFO  Test Down
+2018-10-24 10:37:11,459  - ANDROID.py : WARNING  123456789
+2018-10-24 10:37:11,459  - ANDROID.py : ERROR  This is error message
+2018-10-24 10:37:11,459  - ANDROID.py : INFO  Test Down
+2018-10-24 10:37:11,460  - ANDROID.py : WARNING  123456789
+2018-10-24 10:37:11,460  - ANDROID.py : INFO  Test Down
+2018-10-24 10:37:16,562  - HwCutfile.py : INFO  Has been cut the file is 目前最新版本2018_10_24_Wednesday_10_37_11.html
+2018-10-24 11:17:46,357  - HwUnittest.py : INFO  -
+2018-10-24 11:17:46,362  - HwUnittest.py : INFO  The testcase number is : 3
+2018-10-24 11:17:46,362  - HwUnittest.py : INFO  The testcase name is : ANDROID.py
+2018-10-24 11:17:46,362  - HwUnittest.py : INFO  The testcase name is : Jenkins.py
+2018-10-24 11:17:46,362  - HwUnittest.py : INFO  The testcase name is : Web_API.py
+2018-10-24 11:17:46,378  - ANDROID.py : WARNING  123456789
+2018-10-24 11:17:46,378  - ANDROID.py : INFO  Test Down
+2018-10-24 11:17:46,380  - ANDROID.py : WARNING  123456789
+2018-10-24 11:17:46,380  - ANDROID.py : ERROR  This is error message
+2018-10-24 11:17:46,380  - ANDROID.py : INFO  Test Down
+2018-10-24 11:17:46,382  - ANDROID.py : WARNING  123456789
+2018-10-24 11:17:46,382  - ANDROID.py : INFO  Test Down
+2018-10-24 11:17:51,493  - HwCutfile.py : INFO  Has been cut the file is report2018_10_24_Wednesday_11_17_46.html
+2018-10-24 11:18:08,661  - HwUnittest.py : INFO  -
+2018-10-24 11:18:08,661  - HwUnittest.py : INFO  The testcase number is : 3
+2018-10-24 11:18:08,661  - HwUnittest.py : INFO  The testcase name is : ANDROID.py
+2018-10-24 11:18:08,661  - HwUnittest.py : INFO  The testcase name is : Jenkins.py
+2018-10-24 11:18:08,661  - HwUnittest.py : INFO  The testcase name is : Web_API.py
+2018-10-24 11:18:08,671  - ANDROID.py : WARNING  123456789
+2018-10-24 11:18:08,673  - ANDROID.py : INFO  Test Down
+2018-10-24 11:18:08,674  - ANDROID.py : WARNING  123456789
+2018-10-24 11:18:08,674  - ANDROID.py : ERROR  This is error message
+2018-10-24 11:18:08,674  - ANDROID.py : INFO  Test Down
+2018-10-24 11:18:08,677  - ANDROID.py : WARNING  123456789
+2018-10-24 11:18:08,677  - ANDROID.py : INFO  Test Down
+2018-10-24 11:18:13,752  - HwCutfile.py : INFO  Has been cut the file is report2018_10_24_Wednesday_11_18_08.html
