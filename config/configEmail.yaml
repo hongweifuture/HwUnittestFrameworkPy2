@@ -8,8 +8,8 @@
 # receiver : 收件人，支持多方发送，格式（注意英文逗号）： 123456789@163.com,zxcvbnm@qq.com
 
 SMTP:
-  login_username: jenkins@iis-iot.com
-  login_password: Jenkins123
+  login_username: jenkins@qq.com
+  login_password: Jenkins123456
   host: smtp.exmail.qq.com
   port:
   receiver: 289967396@qq.com
