@@ -1,12 +1,8 @@
 #!/usr/bin/env python
 # coding=utf-8
 
-'''
-FuncName: __init__.py
-Desc: coding
-Date: 2016-11-03 08:30
-Author: johnny
-'''
+# Created by zhaohongwei on 2018-10-23
+# Blog: http://blog.csdn.net/z_johnny
 
 import sys
 reload(sys)
