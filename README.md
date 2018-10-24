@@ -1,5 +1,5 @@
 # HwUnittestFrameworkPy2
-python基于unittest自动化测试框架，参数化，可视化，打包功能
+python基于unittest自动化测试框架，参数化，可视化，功能封装
 
 # 基础
 [Python自动单元测试框架介绍](https://www.ibm.com/developerworks/cn/linux/l-pyunit/)
