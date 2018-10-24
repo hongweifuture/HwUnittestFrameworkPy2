@@ -1,0 +1,10 @@
+# 说明 : source目录下的文件移动到destination，将自动在destination下建立文件夹，文件夹名称为版本号，如IIS_***
+
+# source : 原始文件所在目录
+
+# destination ：文件移动到的目的地
+
+
+FilePath:
+  source: ./result
+  destination: ./report
